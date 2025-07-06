@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/:path*",
-      "destination": "https://chatty-web-app-2.onrender.com/api/:path*"
-    }
-  ]
-}
